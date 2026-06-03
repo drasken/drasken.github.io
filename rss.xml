@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My personal blog</title><link>https://drasken.github.io/</link><description>This is my personal blog to capture my various thoughts</description><atom:link href="https://drasken.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2026 &lt;a href="mailto:kxwebx3t@anonaddy.me"&gt;Drasken&lt;/a&gt; </copyright><lastBuildDate>Wed, 29 Apr 2026 21:10:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello Blog!</title><link>https://drasken.github.io/posts/hello-blog/</link><dc:creator>Drasken</dc:creator><description>&lt;p&gt;Hello World post to open my blog.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My personal blog</title><link>https://drasken.github.io/</link><description>This is my personal blog to capture my various thoughts</description><atom:link href="https://drasken.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2026 &lt;a href="mailto:kxwebx3t@anonaddy.me"&gt;Drasken&lt;/a&gt; </copyright><lastBuildDate>Wed, 03 Jun 2026 14:46:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Simple BF Interpreter in Racket</title><link>https://drasken.github.io/posts/simple-bf-interpreter-in-racket/</link><dc:creator>Drasken</dc:creator><description>&lt;h3&gt;A simple Brainfuck interpreter in Racket&lt;/h3&gt;
+&lt;p&gt;I’ve been learning Racket as my Lisp of choice and, after a lot of
+fiddling and small scripts, I realized that I still used other
+languages (Python, Java, ...) to make more "serious" things so I wanted
+to push myself with a slightly more difficult toy project. I was inspired by
+&lt;a href="https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/"&gt;this&lt;/a&gt;
+list of advanced beginners projects. The inspiration for the
+interpreter came from
+&lt;a href="https://github.com/davecom/ComputerScienceFromScratch/tree/main/Brainfuck"&gt;this&lt;/a&gt;
+repository for a book from &lt;em&gt;No Starch Press&lt;/em&gt; so I re-implemented the
+minimal Brainfuck interpreter using the python code as guideline in
+Racket to practice Racket’s syntax and functional style.&lt;/p&gt;
+&lt;p&gt;The code is intentionally small and well commented, so it can be read and
+easily understood in its design choices (parsing, command dispatch,
+and loop matching) and another beginner can use it as a reference or a
+starting point for his own learning.&lt;/p&gt;
+&lt;p&gt;To cut to the chase, here is the &lt;a href="https://github.com/drasken/SimpleBrainfuckInterpreter/blob/main/main.rkt"&gt;link&lt;/a&gt;.&lt;/p&gt;</description><category>coding</category><category>lisp</category><category>racket</category><category>repo</category><guid>https://drasken.github.io/posts/simple-bf-interpreter-in-racket/</guid><pubDate>Wed, 03 Jun 2026 14:14:47 GMT</pubDate></item><item><title>Hello Blog!</title><link>https://drasken.github.io/posts/hello-blog/</link><dc:creator>Drasken</dc:creator><description>&lt;p&gt;Hello World post to open my blog.&lt;/p&gt;
 &lt;p&gt;This will be a very low active blog. I always wrote something but I decided to open this blog to share some of the things I'd like to let public, in the open.&lt;/p&gt;
 &lt;p&gt;While at it I used the opportunity to use Python again and to test Nikola to make a blog. The first init step was quite good so far.&lt;/p&gt;</description><guid>https://drasken.github.io/posts/hello-blog/</guid><pubDate>Wed, 29 Apr 2026 20:37:37 GMT</pubDate></item></channel></rss>

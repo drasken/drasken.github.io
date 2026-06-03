@@ -6,15 +6,43 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://drasken.github.io/categories/cat_project.xml</loc>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://drasken.github.io/categories/cat_repository.xml</loc>
+  <lastmod>2026-06-03T14:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://drasken.github.io/categories/coding.xml</loc>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://drasken.github.io/categories/lisp.xml</loc>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://drasken.github.io/categories/project.xml</loc>
+  <lastmod>2026-06-03T14:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://drasken.github.io/categories/racket.xml</loc>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://drasken.github.io/categories/repo.xml</loc>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://drasken.github.io/galleries/rss.xml</loc>
-  <lastmod>2026-04-29T21:10:00Z</lastmod>
+  <lastmod>2026-06-03T14:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://drasken.github.io/rss.xml</loc>
-  <lastmod>2026-04-29T21:10:00Z</lastmod>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://drasken.github.io/sitemap.xml</loc>
-  <lastmod>2026-04-29T21:10:00Z</lastmod>
+  <lastmod>2026-06-03T14:16:00Z</lastmod>
  </sitemap>
 </sitemapindex>
